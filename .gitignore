@@ -13,3 +13,9 @@
 *.a
 
 *.DS_Store
+
+tests/*.bat
+
+*~
+
+experiment/
